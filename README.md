@@ -15,8 +15,9 @@ The main page (`index.html`) serves as a gateway to:
 - 📌 **Introduction** – Get to know who I am and what I stand for.
 - 🎓 **Education** – A look into my academic journey.
 - 💼 **Experience** – Insights into my professional path so far.
+- 📬 **Contact Me** – Reach out, collaborate, or just say hello.
 
-All pages are handcrafted with HTML (for now!), and serve as the first version of my evolving web presence.
+All pages are handcrafted with HTML (for now!) and serve as the first version of my evolving web presence.
 
 ---
 
@@ -40,3 +41,4 @@ This is just the beginning. Upcoming enhancements include:
 ├── introduction.html   # Personal introduction
 ├── education.html      # Academic background
 ├── experience.html     # Work and internship experiences
+└── contact.html        # Contact form / details
